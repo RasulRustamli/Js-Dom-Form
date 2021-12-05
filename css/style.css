@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(196, 193, 193);
+}
+.container{
+    margin-top: 50px;
+}
+h1{
+    margin-left: 400px;
+}
+.error{
+    color: #050505;
+    font-weight: bold; 
+ }
+
+ 
